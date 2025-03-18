@@ -57,8 +57,8 @@ This repository presents a **6-DOF Collaborative Robot (Cobot) Simulation** demo
 ## 4. Step-by-Step Setup
 1. **Clone or Download**
    ```bash
-   git clone https://github.com/YourUsername/6DOF-Cobot-Simulation.git
-   cd 6DOF-Cobot-Simulation
+   https://github.com/Ashish-Paka/6DOFCOBOT_TrajectoryPlanning_Kinematics.git
+   cd Code/6DOF-Cobot-Simulation
    ```
 
 2. **Install MATLAB & Toolboxes**
