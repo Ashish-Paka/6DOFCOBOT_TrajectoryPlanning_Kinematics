@@ -117,6 +117,8 @@ This repository presents a **6-DOF Collaborative Robot (Cobot) Simulation** demo
 - **Ashish Paka** — apaka@asu.edu  
 - **Akshay Sopan Mahall** — amahalle@asu.edu
 
+Please find video and code in the Docs and Code folder.
+
 **Licensing**
 - MATLAB code subject to [MathWorks Terms](https://www.mathworks.com/help/matlab/matlab_external/mathworks-terms-of-service.html).  
 - Peter Corke’s Toolbox under [GNU LGPL v3](https://www.gnu.org/licenses/lgpl-3.0.html).  
