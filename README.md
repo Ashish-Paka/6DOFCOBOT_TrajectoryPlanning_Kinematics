@@ -1,4 +1,3 @@
-```markdown
 # 6-DOF Cobot Simulation: Kinematics, Trajectory Planning, and Workspace Visualization
 
 This repository presents a **6-DOF Collaborative Robot (Cobot) Simulation** demonstrating *forward kinematics*, *inverse kinematics*, *trajectory planning*, and *operational workspace* analysis. Developed with **MATLAB** and the **Peter Corke Robotics Toolbox**, the project is suitable for **PhD-level research** and **hands-on demonstrations**—covering everything from DH-based modeling to multi-point trajectory generation.
